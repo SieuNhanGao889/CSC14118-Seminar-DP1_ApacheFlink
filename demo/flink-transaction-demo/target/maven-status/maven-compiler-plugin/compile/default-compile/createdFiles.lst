@@ -1,0 +1,4 @@
+com\seminar\flink\TransactionProducer.class
+com\seminar\flink\Transaction.class
+com\seminar\flink\TransactionWindowProcessor.class
+com\seminar\flink\TransactionAnalyticsJob.class
