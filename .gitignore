@@ -1,0 +1,38 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and runtime output
+*.log
+logs/
+*.out
+
+# Java / Maven build output
+target/
+*.class
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment and local config
+.env
+.env.*
+!.env.example
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Demo runtime artifacts
+*.pid
+*.savepoint
+*.checkpoint
